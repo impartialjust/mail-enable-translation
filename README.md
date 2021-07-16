@@ -1,4 +1,5 @@
 # mail-enable-translation
+This only include standard edition(free).
 The file should in C:\Program Files (x86)\Mail Enable\Bin . 
 To create a new translation in web mail or web admin, create a new line in LANGUAGE.TAB, like
 ```
